@@ -48,6 +48,7 @@ There are many websites designed and developed to manage the trips, air flights,
 The Webiste is designed in away that it can be used in almost any type of online E-commerce business. <br/>
 The overall design/UI is modern and aesthetic.<br/>
 Website has [Music Player](https://elfsight.com/) also with some space songs. <br/>
+The entire website is hosted on Localhost using Apache. Just Copy paste all the files in htdocs folder in Xampp directory and start the Apache and SQL services and you are good to go.
 ## Screenshots of User-side Website:
 
 ![image](https://user-images.githubusercontent.com/96788451/194764048-30c6ab20-5d85-47e5-aecb-141a29cf1d16.png)
@@ -61,4 +62,5 @@ Website has [Music Player](https://elfsight.com/) also with some space songs. <b
 ![image](https://user-images.githubusercontent.com/96788451/194764930-323609da-97a8-4d3c-8fd5-9fc288b6af97.png)
 ![image](https://user-images.githubusercontent.com/96788451/194764963-08938866-ec4e-4627-adba-f5ed980a0974.png)
 
+A video on the beauty of the Space: [Link](https://www.youtube.com/watch?v=8A3u-4dyKfQ&t=96s)  -> for space lovers :) 
 
